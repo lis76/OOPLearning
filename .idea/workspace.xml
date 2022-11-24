@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4621d512-cee8-4d6a-b297-3af3774a28c6" name="Changes" comment="Finished" />
+    <list default="true" id="4621d512-cee8-4d6a-b297-3af3774a28c6" name="Changes" comment="Finished1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -93,6 +95,7 @@
       <workItem from="1667196466740" duration="9709000" />
       <workItem from="1667368314095" duration="1119000" />
       <workItem from="1667884861282" duration="11715000" />
+      <workItem from="1668663237008" duration="854000" />
     </task>
     <task id="LOCAL-00001" summary="Init of project">
       <created>1667368824111</created>
@@ -122,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667920478575</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Finished1">
+      <created>1668663450630</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1668663450630</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,6 +153,7 @@
     <MESSAGE value="Init of project" />
     <MESSAGE value="Finished whit constructor explanation and extends" />
     <MESSAGE value="Finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished" />
+    <MESSAGE value="Finished1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished1" />
   </component>
 </project>
